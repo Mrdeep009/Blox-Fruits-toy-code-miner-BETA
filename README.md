@@ -13,7 +13,7 @@ This project is a Lua script designed to automate the mining process in the Blox
 1. Clone the repository or download the files.
 2. Open the scripts in Roblox Studio.
 ## OR
-execute this ''' loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrdeep009/blackboxai-1744533077607/refs/heads/main/main.lua"))() '''
+execute this 'loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrdeep009/blackboxai-1744533077607/refs/heads/main/main.lua"))()'
 
 ## Usage
 - Press `X` to start mining.
